@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smat_note_sharing/static/css/main.b896e913.css",
+    "main.js": "/smat_note_sharing/static/js/main.e93ecffd.js",
+    "static/js/453.67ea49e9.chunk.js": "/smat_note_sharing/static/js/453.67ea49e9.chunk.js",
+    "index.html": "/smat_note_sharing/index.html",
+    "main.b896e913.css.map": "/smat_note_sharing/static/css/main.b896e913.css.map",
+    "main.e93ecffd.js.map": "/smat_note_sharing/static/js/main.e93ecffd.js.map",
+    "453.67ea49e9.chunk.js.map": "/smat_note_sharing/static/js/453.67ea49e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b896e913.css",
+    "static/js/main.e93ecffd.js"
+  ]
+}
